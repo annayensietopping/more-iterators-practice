@@ -137,7 +137,7 @@ console.log('-----------------')
 /***********
 Problem 6:
 
-1. Using the `users` array, Write a function called findByUsername which takes in a string as a parameter and returns an object from the users array that has that username
+1. Using the `users` array, write a function called findByUsername which takes in a string as a parameter and returns an object from the users array that has that username
 
 2. Call the function and log the result of the function to the console
 
@@ -147,6 +147,26 @@ Problem 6:
 
 ************/
 console.log('Problem 6:')
+
+// Add your code below this line
+
+// Add your code above this line
+
+/** added for formatting purposes **/
+console.log('')
+console.log('-----------------')
+
+/***********
+Problem 7:
+
+1. Using the `users` array, write a function called averageYearsOfExp which returns the average years of experience of all the users
+
+2. Call the function and log the result of the function to the console
+
+ - running console.log(averageYearsOfExp())` => should return 16.4
+
+************/
+console.log('Problem 7:')
 
 // Add your code below this line
 
